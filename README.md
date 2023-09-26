@@ -1,17 +1,10 @@
-# nft_market
+# NFT Market (Flutter android\ios)
+[https://youtu.be/3bFPbiZvAns](https://youtu.be/BhAq_3PCz_I) = Video
 
-A new Flutter project.
+<img src="https://i.ibb.co/v3pBS5K/start.jpg" alt="" height=150px>
+<img src="https://i.ibb.co/wBmH07Z/Detail.jpg" alt="" height=150px>
+<img src="https://i.ibb.co/m86TZVW/detail2.jpg" alt="" height=150px>
+<img src="https://i.ibb.co/PYC1kFZ/detail3.jpg" alt="" height=150px>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FlutterNFTMarket
+<h3> About NFT Market: </h3>
+Test project for speed and user interface, studying flutter frontend. + Animations in the project
